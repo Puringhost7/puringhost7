@@ -3,7 +3,7 @@
 ## 🚀 My Projects
 
 - [Project 1](https://github.com/Puringhost7/my-project )
-- Live Demo _ 
+- Live Demo _   (https://puringhost7.github.io/my-project/)
 
 ## 📚 About Me
 - 🌱 I’m currently learning Web Development
